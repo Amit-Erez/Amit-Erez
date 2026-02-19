@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a 45 year-old frontend developer, with a strong passion for developing beautiful websites with great user experiences.
+I'm a frontend developer, with a strong passion for developing beautiful websites with great user experiences.
 
 * 🌍  I'm based in Portland, Oregon
 * ✉️  You can contact me at [hazeydays@gmail.com](mailto:hazeydays@gmail.com)
