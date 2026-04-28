@@ -1,26 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amit Erez
-==================================================================================================================================
+## Hi, I'm Amit Erez — Frontend Developer
 
-Frontend Developer
-------------------
+Based in Portland, OR &nbsp;|&nbsp; [amiterezdev@gmail.com](mailto:amiterezdev@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/amiterez80/) &nbsp;|&nbsp; [Portfolio](https://amiterez-portfolio.vercel.app)
 
-I'm a frontend developer, with a strong passion for developing beautiful websites with great user experiences.
+Frontend developer with three consecutive internships shipped in 2025 — building production React and Next.js apps with TypeScript, Tailwind, Firebase, Redux, and Stripe.
 
-* 🌍  I'm based in Portland, Oregon
-* ✉️  You can contact me at [amiterezdev@gmail.com](mailto:amiterezdev@gmail.com)
+---
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Redux" title="Figma" width="36" height="36" /></a>  
-</p>
+### Featured Projects
 
-### Socials
+**[EQ-6 Parametric Equalizer](https://ae-eq6.vercel.app)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/eq-app)
+Browser-based 6-band parametric EQ built with React, TypeScript, and the Web Audio API - real-time BiquadFilterNode signal chain, interactive SVG graph with draggable handles, and a live spectrum analyser with blended EQ-influenced visualisation.
 
-[<img alt="GitHub" title="GitHub" width="32" height="32"
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />](https://www.github.com/Amit-Erez)
-[<img alt="LinkedIn" title="LinkedIn" width="32" height="32"
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />](https://www.linkedin.com/in/amit-erez-6aa0b31aa)
+**[Summarist](https://summarist-io.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/Summarist)
+Book summary platform with Firebase Auth, Stripe subscriptions, and audio playback. Built with Next.js, TypeScript, and Redux.
 
+**[Skinstric AI](https://skinstric-app.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/Skinstric-AI)
+AI-powered skin analysis app in React — custom camera capture flow, real-time results dashboard, 96% Lighthouse score.
 
-<!-- <p align="left"> <a href="https://www.github.com/Amit-Erez" target="_blank" rel="noreferrer" style="text-decoration:none; display:inline-flex;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/amit-erez-6aa0b31aa" target="_blank" rel="noreferrer" style="text-decoration:none; display:inline-flex;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p> -->
+**[Ultraverse NFT Marketplace](https://ultraverse-app.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/NFT-Marketplace-Internship)
+Dynamic NFT marketplace consuming multiple REST APIs. Built with React, Axios, and deployed on Vercel.
+
+**[Movie Search App](https://home-cinema-app.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/Movie-Search-App)
+React app consuming the OMDB API — dynamic routing, loading states, and responsive layout.
+
+---
+
+### Stack
+
+JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Redux &nbsp;|&nbsp; Firebase &nbsp;|&nbsp; Stripe &nbsp;|&nbsp; REST APIs &nbsp;|&nbsp; Vercel &nbsp;|&nbsp; Git
