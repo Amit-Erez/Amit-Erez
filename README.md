@@ -20,9 +20,6 @@ AI-powered skin analysis app in React — custom camera capture flow, real-time 
 **[Ultraverse NFT Marketplace](https://ultraverse-app.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/NFT-Marketplace-Internship)
 Dynamic NFT marketplace consuming multiple REST APIs. Built with React, Axios, and deployed on Vercel.
 
-**[Movie Search App](https://home-cinema-app.vercel.app/)** &nbsp;|&nbsp; [GitHub](https://github.com/Amit-Erez/Movie-Search-App)
-React app consuming the OMDB API — dynamic routing, loading states, and responsive layout.
-
 ---
 
 ### Stack
